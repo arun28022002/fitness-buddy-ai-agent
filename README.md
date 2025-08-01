@@ -98,19 +98,6 @@ It ensures accessible, personalized, and cost-effective fitness support, availab
 
 ---
 
-## 🔗 GitHub Repository
-
-**[👉 Click here to explore the full source code](#)**  
-(*Update this with your actual GitHub repository link.*)
-
----
-
-## 📜 IBM Certifications
-
-This project demonstrates hands-on skills in IBM Cloud, Watsonx AI, and Granite services, fulfilling the certification objectives for IBM’s AI and Cloud Developer programs.
-
----
-
 ## 🙏 Acknowledgements
 
 Special thanks to IBM and our mentors for the opportunity to innovate in the AI and cloud space.
