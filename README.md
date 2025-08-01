@@ -78,9 +78,6 @@ You can add screenshots here to show the development environment/tools:
 - IBM Watson NLP  
 - IBM Granite Foundation Model  
 - GitHub  
-- Visual Studio Code (optional)  
-
-> 📸 *Insert screenshots here to show your project setup and development tools*
 
 ---
 
@@ -95,7 +92,7 @@ Steps to run the project or replicate:
 5. Deploy your model and integrate it with your agent.
 6. Test interactions through the agent's preview interface.
 
-> 📸 *Insert screenshots of the setup steps, Watsonx project, model upload, agent configurations*
+
 
 ---
 
