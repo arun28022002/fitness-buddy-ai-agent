@@ -97,7 +97,9 @@ Steps to run the project or replicate:
 <img width="896" height="764" alt="Setup" src="https://github.com/user-attachments/assets/028557e2-3939-4c4a-b9f0-e054fc90d6be" />
 
 <img width="1761" height="697" alt="Agent Instructions" src="https://github.com/user-attachments/assets/be16592f-7a87-4241-aa0e-7ec2a4475170" />
+
 ---
+
 ## 🚀 Deployment & Agent Preview
 
 
