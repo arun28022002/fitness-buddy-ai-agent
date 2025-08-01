@@ -60,6 +60,17 @@ It ensures accessible, personalized, and cost-effective fitness support, availab
 
 ---
 
+## 🛠️ How It Works
+
+1. **User Interaction**: Users communicate with the assistant via a conversational interface (chat or voice).
+2. **Intent Recognition**: NLP (Natural Language Processing) interprets the user's goals (e.g., “I want a leg workout” or “Suggest a healthy breakfast”).
+3. **AI Processing**: IBM Granite and Watsonx analyze input and generate personalized responses (workouts, meal plans, etc.).
+4. **Cloud Services Integration**: Uses IBM Cloud Lite and AI runtime for seamless backend support.
+5. **Response Delivery**: The assistant responds with customized workouts, meal ideas, motivational quotes, or habit-tracking prompts.
+6. **Continuous Learning**: The system adapts to user preferences and improves recommendations over time.
+
+---
+
 ## ✅ Results
 
 - Successfully deployed an AI-powered conversational assistant.  
@@ -107,4 +118,3 @@ Special thanks to IBM and our mentors for the opportunity to innovate in the AI 
 ---
 
 > 🧠 *Fitness Buddy is your 24/7 intelligent fitness partner—anywhere, anytime, for anyone.*
-
