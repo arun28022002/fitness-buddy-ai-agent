@@ -94,10 +94,10 @@ Steps to run the project or replicate:
 
 
 
----<img width="896" height="764" alt="Setup" src="https://github.com/user-attachments/assets/028557e2-3939-4c4a-b9f0-e054fc90d6be" />
+<img width="896" height="764" alt="Setup" src="https://github.com/user-attachments/assets/028557e2-3939-4c4a-b9f0-e054fc90d6be" />
 
 <img width="1761" height="697" alt="Agent Instructions" src="https://github.com/user-attachments/assets/be16592f-7a87-4241-aa0e-7ec2a4475170" />
-
+---
 ## 🚀 Deployment & Agent Preview
 
 
@@ -106,9 +106,6 @@ This section explains how you deployed and tested your virtual assistant.
 - Deployed via IBM Cloud Agent Lab with Granite model backend.
 - Previewed and tested using the in-browser chat window.
 - Successfully delivered personalized recommendations in real time.
-
-> 📸 *Insert screenshots of agent preview, output responses, deployment success*
-<img width="1836" height="808" alt="Agent Preview" src="https://github.com/user-attachments/assets/390c30fb-6574-4270-bacc-f8e1bcbf8fcf" />
 
 ---
 
@@ -119,9 +116,6 @@ Testing included:
 - Functional testing for correct workout and meal suggestions.  
 - NLP input testing for natural and unclear user inputs.  
 - UI testing for chatbot display and user experience.  
-
-> 📸 *Insert screenshots showing test cases and successful responses*
-<img width="896" height="745" alt="Testing" src="https://github.com/user-attachments/assets/62d09eaa-0916-4637-b290-20ae3d5b3f0f" />
 
 ---
 
