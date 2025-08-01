@@ -1,6 +1,6 @@
 # 🧠 Fitness Buddy - AI Virtual Fitness Assistant
 
-**IBM Hackathon Project**  
+**IBM SkillsBuild Project**  
 Created by: **Arunkumar S**  
 College: S. Veerasamy Chettiar College of Engineering and Technology  
 Department: Electronics and Communication Engineering  
