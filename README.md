@@ -115,7 +115,11 @@ Testing included:
 
 - Functional testing for correct workout and meal suggestions.  
 - NLP input testing for natural and unclear user inputs.  
-- UI testing for chatbot display and user experience.  
+- UI testing for chatbot display and user experience.
+
+<img width="882" height="752" alt="Testing1" src="https://github.com/user-attachments/assets/05ce874d-9f6d-4a85-882c-ae07e22d27b9" />
+
+<img width="919" height="781" alt="Testing2" src="https://github.com/user-attachments/assets/04fc282f-c6d3-42b4-a8b3-90555772ce64" />
 
 ---
 
@@ -123,7 +127,11 @@ Testing included:
 
 - Fully working AI-powered assistant  
 - Deployed entirely using IBM’s cloud services  
-- Personalized suggestions and habit tracking work reliably  
+- Personalized suggestions and habit tracking work reliably
+
+<img width="1904" height="846" alt="API Reference" src="https://github.com/user-attachments/assets/e006c9f4-25c2-4b38-a02f-9462297328cc" />
+
+<img width="1900" height="855" alt="Deployment spaces" src="https://github.com/user-attachments/assets/e0679c0f-bfa8-4dae-a954-1a2522998fcf" />
 
 ---
 
