@@ -154,24 +154,6 @@ Testing included:
 
 ---
 
-## 🔗 GitHub Repository
-
-**[👉 Click here to explore the full source code](#)**  
-(*Replace this with your actual GitHub repo URL*)
-
----
-
-## 📜 IBM Certifications
-
-This project demonstrates real-world use of:
-
-- IBM Cloud
-- Watsonx AI
-- Foundation models  
-*Aligns with IBM AI & Cloud Developer Certification tracks.*
-
----
-
 ## 🙏 Acknowledgements
 
 Thanks to **IBM** for the platform, tools, and learning opportunity.
